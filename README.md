@@ -16,7 +16,7 @@
 - ✍️ Sharing knowledge & journey on [LinkedIn](https://www.linkedin.com/in/trijesh-kondapuram/)
 
 ---
-
+ 
 ## 🚀 Skills & Tech Stack
 
 **Languages & Programming**
