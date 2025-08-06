@@ -12,7 +12,7 @@
 - 🎓 B.Tech in Artificial Intelligence & Data Science @ **NBKRIST**
 - 💼 Data Science Intern @ **Elite Tech Intern** | Python Intern @ **CodTech**
 - 🧑‍🏫 Team Lead – Data Science Team @ **IEEE SB NBKRIST**
-- 🌐 IEEE India Council – **Student Mentorship Program** (Mentee)
+- 🌐 IEEE India Council – **Student Mentorship Program** (Mentee) 
 - ✍️ Sharing knowledge & journey on [LinkedIn](https://www.linkedin.com/in/trijesh-kondapuram/)
 
 ---
