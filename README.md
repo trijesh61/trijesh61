@@ -9,7 +9,7 @@
 
 ## 👨‍💼 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science @ **NBKRIST**
+- 🎓 B.Tech in Artificial Intelligence & Data Science @ **NBKRIST** 
 - 💼 Data Science Intern @ **Elite Tech Intern** | Python Intern @ **CodTech**
 - 🧑‍🏫 Team Lead – Data Science Team @ **IEEE SB NBKRIST**
 - 🌐 IEEE India Council – **Student Mentorship Program** (Mentee) 
