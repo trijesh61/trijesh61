@@ -81,7 +81,7 @@
 - 📝 Published on LinkedIn:  
   [**Data Science Methodologies: Proven Techniques for Transformative Results**](https://www.linkedin.com/pulse/data-science-methodologies-proven-techniques-trijesh-kondapuram/)  
 - 🧑‍💻 Mentoring peers in Python, SQL, and Data Analytics
-
+  
 ---
 
 ## 🌐 Connect with Me
