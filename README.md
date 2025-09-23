@@ -7,7 +7,7 @@
 
 --- 
  
-## 👨‍💼 About Me
+## 👨‍💼 About Me 
 
 - 🎓 **B.Tech in Artificial Intelligence & Data Science** @ NBKRIST  
 - 💼 Data Science Intern @ **Elite Tech Intern** | Python Intern @ **CodTech**  
