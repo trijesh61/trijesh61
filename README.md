@@ -64,7 +64,6 @@
 
 ## 📁 Featured Projects
 
-🔹 [**Customer Churn Analysis**](https://github.com/trijesh61/customer-churn-analysis)  
 🔹 [**Lung Cancer Risk – EDA**](https://github.com/trijesh61/lung-cancer-risk-analysis)  
 🔹 [**Retail Sales Analysis (SQL)**](https://github.com/trijesh61/Retail-Sales-Analysis-SQL-Project)  
 🔹 [**US Accidents 2016–2023 Data Analysis**](https://github.com/trijesh61/US-Accidents-2016-2023-Data-Analysis)  
