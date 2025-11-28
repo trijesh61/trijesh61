@@ -2,7 +2,7 @@
 <h3 align="center">🔍 Emerging Data Scientist | 🤖 AI Enthusiast | 📈 Data Storyteller</h3>
  
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Decisions;Exploring+AI+and+Analytics;Mentoring+Future+Techies;Lifelong+Learner&font=Fira+Code&center=true&width=500&height=45&color=00bfff&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/? lines=Turning+Data+into+Decisions;Exploring+AI+and+Analytics;Mentoring+Future+Techies;Lifelong+Learner&font=Fira+Code&center=true&width=500&height=45&color=00bfff&vCenter=true&pause=1000&size=22" />
 </p>
  
 ---
