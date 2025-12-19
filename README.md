@@ -10,7 +10,7 @@
 ## 👨‍💼 About Me 
 
 - 🎓 **B.Tech in Artificial Intelligence & Data Science** @ NBKRIST  
-- 💼 Data Visualization Intern @ **Elite Tech Intern** | Data Science Intern @ **Elite Tech Intern** | Python Intern @ **CodTech**  
+- 💼 Data Visualization Intern @ **Infosys Springboard** | Data Science Intern @ **Elite Tech Intern** | Python Intern @ **CodTech**  
 - 🧑‍🏫 **Former Team Lead** – Data Science Team @ IEEE SB NBKRIST  
 - 🌐 **Former Mentee** – IEEE India Council Student Mentorship Program  
 - 📝 **Python Data Analyst** with a knack for transforming raw data into actionable insights  
