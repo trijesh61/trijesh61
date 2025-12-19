@@ -10,9 +10,9 @@
 ## 👨‍💼 About Me 
 
 - 🎓 **B.Tech in Artificial Intelligence & Data Science** @ NBKRIST  
-- 💼 Data Science Intern @ **Elite Tech Intern** | Python Intern @ **CodTech**  
-- 🧑‍🏫 **Team Lead** – Data Science Team @ IEEE SB NBKRIST  
-- 🌐 **Mentee** – IEEE India Council Student Mentorship Program  
+- 💼 Data Visualization Intern @ **Elite Tech Intern** | Data Science Intern @ **Elite Tech Intern** | Python Intern @ **CodTech**  
+- 🧑‍🏫 **Former Team Lead** – Data Science Team @ IEEE SB NBKRIST  
+- 🌐 **Former Mentee** – IEEE India Council Student Mentorship Program  
 - 📝 **Python Data Analyst** with a knack for transforming raw data into actionable insights  
 - 🤖 Recently exploring **Machine Learning** in real-world projects  
 - ✍️ Sharing my journey and knowledge on [LinkedIn](https://www.linkedin.com/in/trijesh-kondapuram/)
