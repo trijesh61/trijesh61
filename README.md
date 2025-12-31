@@ -1,76 +1,96 @@
-<h1 align="center">Hey there! 👋 I'm Trijesh Kondapuram</h1>
-<h3 align="center">🔍 Emerging Data Scientist | 🤖 AI Enthusiast | 📈 Data Storyteller</h3>
- 
-<p align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Decisions;Exploring+AI+and+Analytics;Mentoring+Future+Techies;Lifelong+Learner&font=Fira+Code&center=true&width=500&height=45&color=00bfff&vCenter=true&pause=1000&size=22" />
-</p>
- 
---- 
-  
-## 👨‍💼 About Me
-
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** @ NBKRIST  
-- 💼 Data Visualization Intern @ **Infosys Springboard** | Data Science Intern @ **Elite Tech Intern** | Python Intern @ **CodTech**  
-- 🧑‍🏫 **Former Team Lead** – Data Science Team @ IEEE SB NBKRIST  
-- 🌐 **Former Mentee** – IEEE India Council Student Mentorship Program  
-- 📝 **Python Data Analyst** with a knack for transforming raw data into actionable insights  
-- 🤖 Recently exploring **Machine Learning** in real-world projects  
-- ✍️ Sharing my journey and knowledge on [LinkedIn](https://www.linkedin.com/in/trijesh-kondapuram/)
-
----
-
-## 🚀 Skills & Tech Stack
-
-**Programming & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data Analysis, ML & Visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-
-**Web & Backend**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Version Control & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">👋 Hey, I'm <b>Trijesh Kondapuram</b></h1>
+<h3 align="center">Data Scientist in Progress | ML Explorer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trijesh61&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=trijesh61&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trijesh61&layout=compact&theme=radical" height="170" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Insights;Machine+Learning+Practitioner;Data+Visualization+Lover;Always+Learning%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=00E7FF&pause=1200&size=22"/>
 </p>
 
 ---
 
-## 📁 Featured Projects
+## 🔥 About Me
 
-🔹 [**Lung Cancer Risk – EDA**](https://github.com/trijesh61/lung-cancer-risk-analysis)  
-🔹 [**Retail Sales Analysis (SQL)**](https://github.com/trijesh61/Retail-Sales-Analysis-SQL-Project)  
-🔹 [**US Accidents 2016–2023 Data Analysis**](https://github.com/trijesh61/US-Accidents-2016-2023-Data-Analysis)  
-🔹 [**ML Health Insurance Premium Prediction**](https://github.com/trijesh61/ML-Health-Insurance-Premium-Prediction)  
-🔹 [**AtliQo Bank Credit Card Launch Hypothesis Testing**](https://github.com/trijesh61/AtliQo-Bank-Credit-Card-Launch-Hypothesis-Testing)  
-🔹 [**Hospitality Domain Data Analysis**](https://github.com/trijesh61/Hospitality-Domain-Data-Analysis)  
-🔹 [**Used Car Analysis**](https://github.com/trijesh61/Used-Car-Analysis)
+- 🎓 B.Tech **AI & Data Science**
+- 💼 **Data Science Intern — Elite Tech Intern**
+- 🐍 **Python Intern — CodTech**
+- 🧠 Interested in **ML | Analytics | SQL | Dashboards**
+- ⚙ Improving skills in **FastAPI, Django & Statistics**
+- 💡 Believe in *Data → Insights → Decisions → Impact*
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+| Languages | Data & ML | Visualization |
+|---|---|---|
+| 🐍 Python | 🐼 Pandas | 📊 Power BI |
+| 📘 C | 🔢 Numpy | 📈 Matplotlib |
+| 🌐 SQL | 🤖 Scikit-Learn | 🌊 Seaborn |
+|  | 🔍 EDA | 🗂 Jupyter |
+
+| Databases | Web Dev | Tools |
+|---|---|---|
+| 🐬 MySQL | 🌿 Django | 🌀 Git |
+| 🐘 PostgreSQL | ⚡ FastAPI | 🐙 GitHub |
+|  | 🟠 HTML/CSS |  |
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+> 🔥 My Data Analytics & Machine Learning Projects  
+
+---
+
+### 🩺 **Lung Cancer Risk – EDA**
+📊 Complete Exploratory Data Analysis to identify symptom patterns and insights.  
+**Tech:** Python • Pandas • Seaborn • Matplotlib  
+🔗 **Repo:** https://github.com/trijesh61/lung-cancer-risk-analysis
+
+---
+
+### 🚗 **US Accidents (2016–2023) Data Analysis**
+🛰 Multi-year accident dataset analysis with severity factors & visual patterns.  
+**Tech:** Python • EDA • Visualization  
+🔗 **Repo:** https://github.com/trijesh61/US-Accidents-2016-2023-Data-Analysis
+
+---
+
+### 💰 **Health Insurance Premium Prediction (ML)**
+🤖 Regression model to predict premium cost using features like age, bmi, region etc.  
+**Tech:** Machine Learning • Scikit-Learn • Regression Models  
+🔗 **Repo:** https://github.com/trijesh61/ML-Health-Insurance-Premium-Prediction
+
+---
+
+### 🏦 **AtliQo Bank – Hypothesis Testing**
+📌 Statistical decision-making to evaluate feasibility of a credit card launch.  
+**Tech:** Hypothesis Testing • Statistics • Business Analytics  
+🔗 **Repo:** https://github.com/trijesh61/AtliQo-Bank-Credit-Card-Launch-Hypothesis-Testing
+
+---
+
+### 🏨 **Hospitality Domain Analysis**
+🏨 Booking behavior & cancellation analysis for hotel management insights.  
+**Tech:** Python • Pandas • Visualization  
+🔗 **Repo:** https://github.com/trijesh61/Hospitality-Domain-Data-Analysis
+
+---
+
+### 🚘 **Used Car Analysis**
+💵 Pricing influence analysis & feature importance exploration on car dataset.  
+**Tech:** Python • EDA • Visualization  
+🔗 **Repo:** https://github.com/trijesh61/Used-car-analysis
+
+---
+
+### 📉 **Customer Churn Analysis**
+📈 Customer retention analysis through churn pattern identification.  
+**Tech:** EDA • Feature Insights • Analytics  
+🔗 **Repo:** https://github.com/trijesh61/customer-churn-analysis
 
 ---
 
