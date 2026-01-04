@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <b>Trijesh Kondapuram</b></h1>
+<h1 align="center">👋 Hey, I'm <b>Trijesh Kondapuram</b></h1> 
 <h3 align="center">Data Scientist in Progress | ML Explorer | Data Analyst</h3>
 
 <p align="center">
