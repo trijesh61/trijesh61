@@ -11,7 +11,6 @@
 
 - 🎓 B.Tech **AI & Data Science**
 - 💼 **Data Visualization Intern — Infosys Springboard**
-- 🐍 **Python Intern — CodTech**
 - 🧠 Interested in **ML | Analytics | SQL | Dashboards**
 - ⚙ Improving skills in **FastAPI, Django & Statistics**
 - 💡 Believe in *Data → Insights → Decisions → Impact*
