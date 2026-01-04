@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+  
 ## 🔥 About Me
 
 - 🎓 B.Tech **AI & Data Science**
