@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <b>Trijesh Kondapuram</b></h1>
 <h3 align="center">Data Scientist in Progress | ML Explorer | Data Analyst</h3>
 
-<p align="center">
+<p align="center"> 
 <img src="https://readme-typing-svg.demolab.com/?lines=Turning+Data+into+Insights;Machine+Learning+Practitioner;Data+Visualization+Lover;Always+Learning%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=00E7FF&pause=1200&size=22"/>
 </p>
 
