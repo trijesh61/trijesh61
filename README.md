@@ -70,7 +70,7 @@
 **Tech:** Hypothesis Testing • Statistics • Business Analytics  
 🔗 **Repo:** https://github.com/trijesh61/AtliQo-Bank-Credit-Card-Launch-Hypothesis-Testing
 
----
+--- 
 
 ### 🏨 **Hospitality Domain Analysis**
 🏨 Booking behavior & cancellation analysis for hotel management insights.  
