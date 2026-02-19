@@ -6,7 +6,7 @@
 ---
   
 ## 🔥 About Me
-
+ 
 - 🎓 B.Tech **AI & Data Science**
 - 💼 **Data Visualization Intern — Infosys Springboard**
 - 🧠 Interested in **ML | Analytics | SQL | Dashboards**
