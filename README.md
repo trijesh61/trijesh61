@@ -96,8 +96,8 @@
 - 🎓 Certified in **Data Science**, **Problem Solving**, and **Project Management** (Accenture, edX, etc.)  
 - 📝 Published on LinkedIn:  
   [**Data Science Methodologies: Proven Techniques for Transformative Results**](https://www.linkedin.com/pulse/data-science-methodologies-proven-techniques-trijesh-kondapuram/)  
-- 🧑‍💻 Mentoring peers in Python, SQL, and Data Analytics
-  
+- 🧑‍💻 Mentoring peers in Python, SQL, Data Analytics, Machine Learning, Deeplearning
+
 --- 
  
 ## 🌐 Connect with Me
