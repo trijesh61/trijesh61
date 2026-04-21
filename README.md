@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Data+Scientist+%7C+AI+%26+Data+Science+Graduate+%F0%9F%A7%A0;Machine+Learning+Engineer+%7C+Python+Developer;Data+Analyst+%7C+Power+BI+%7C+SQL+Expert+%F0%9F%93%8A;Turning+Raw+Data+into+Business+Insights;Scikit-Learn+%E2%80%A2+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Power+BI)](https://github.com/trijesh61)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Data+Scientist+%7C+AI+%26+Data+Science+Graduate+%F0%9F%A7%A0;Machine+Learning+Engineer+%7C+Python+Developer;Data+Analyst+%7C+Power+BI+%7C+SQL+Expert+%F0%9F%93%8A;Turning+Raw+Data+into+Business+Insights;Scikit-Learn+%E2%80%A2+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Power+BI;Open+for+Projects+%26+Collaborations+%F0%9F%A4%9D)](https://github.com/trijesh61)
 
 # Hello, I'm Trijesh Kondapuram 👋
 
