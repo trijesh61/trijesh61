@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Data+Scientist+%7C+AI+%26+Data+Science+Graduate+%F0%9F%A7%A0;Machine+Learning+Engineer+%7C+Python+Developer;Data+Analyst+%7C+Power+BI+%7C+SQL+Expert+%F0%9F%93%8A;Turning+Raw+Data+into+Business+Insights;Scikit-Learn+%E2%80%A2+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Power+BI;Open+for+Projects+%26+Collaborations+%F0%9F%A4%9D)](https://github.com/trijesh61)
 
-# Hello, I'm Trijesh Kondapuram 👋
+<h1 align="center">Hello, I'm Trijesh Kondapuram 👋</h1>
 
 ---
 
@@ -47,22 +47,20 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trijesh61&theme=radical" width="100%" alt="Profile Details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trijesh61&theme=tokyo-night&hide_border=true&area=true&color=00E7FF&line=00E7FF&point=ffffff" width="85%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trijesh61&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trijesh61&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trijesh61&show_icons=true&theme=radical&hide_border=true&count_private=true" width="60%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=trijesh61&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trijesh61&theme=radical" width="48%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trijesh61&theme=radical&utcOffset=5.5" width="48%" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trijesh61&theme=radical" width="32%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trijesh61&theme=radical" width="32%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trijesh61&theme=radical&utcOffset=5.5" width="32%" alt="Productive Time" />
+  <img src="https://streak-stats.demolab.com?user=trijesh61&theme=radical&hide_border=true" width="70%" alt="GitHub Streak" />
 </p>
 
 ---
