@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Trijesh Kondapuram 👋</h1>
 
---- 
+---
 
 ### 👨🏻‍💻 About Me
 
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=trijesh61&theme=radical&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=trijesh61&theme=radical&hide_border=true&cache_seconds=86400&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak" />
 </p>
 
 ---
