@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
@@ -17,11 +14,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Refresh README to bust GitHub CDN cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase
-          git commit --allow-empty -m "chore: refresh README stats [$(date '+%Y-%m-%d')]"
+          git pull origin main
+          git commit --allow-empty -m "chore: refresh README stats [$(date '+%Y-%m-%d')] [skip ci]"
           git push origin main
