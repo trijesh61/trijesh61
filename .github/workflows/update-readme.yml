@@ -15,11 +15,13 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Refresh README to bust GitHub CDN cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+          git pull origin main --rebase
           git commit --allow-empty -m "chore: refresh README stats [$(date '+%Y-%m-%d')]"
-          git push
+          git push origin main
