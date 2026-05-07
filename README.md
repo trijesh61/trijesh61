@@ -4,7 +4,7 @@
 
 ---
  
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me 
 
 <img align="right" width="320" src="https://github.com/trijesh61/trijesh61/raw/main/techstack.gif" />
 
