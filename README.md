@@ -9,7 +9,7 @@
 <img align="right" width="320" src="https://github.com/trijesh61/trijesh61/raw/main/techstack.gif" />
 
 - 🙋‍♂️ Find out more about me at my **[Portfolio](https://trijesh-kondapuram.netlify.app/)**.
-- 🎓 B.Tech in **AI & Data Science**.
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**.
 - 💼 **Data Visualization Intern — Infosys Springboard**.
 - 🧠 Interested in **ML | Analytics | SQL | Dashboards**.
 - ⚙️ Improving skills in **FastAPI, Django & Statistics**.
